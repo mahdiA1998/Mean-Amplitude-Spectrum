@@ -1,6 +1,6 @@
 # Mean-Amplitude-Spectrum
 
-"This Matlab code is written to obtain Mean Amplitude Spectrum related to three flicker stimuli with different frequencies"
+"This Matlab code is written to obtain Mean Amplitude Spectrum of SSVEP related to three flicker stimuli with different frequencies"
 
 DATA: 
 
