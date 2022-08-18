@@ -21,7 +21,7 @@
 
 
 
-This Matlab code is written to obtain Mean Amplitude Spectrum related to three flicker stimuli with different frequencies.
+This Matlab code is written to obtain Mean Amplitude Spectrum of SSVEP related to three flicker stimuli with different frequencies.
 
 DATA: 
 
@@ -31,6 +31,6 @@ DATA:
 
  Dataset name: EEG Dataset for SSVEP using Ear-EEG and Scalp-EEG
 
- Related Reference: (i.e. N.-S. Kwak and S.-W. Lee, ìError Correction Regression Framework for Enhancing the Decoding
- Accuracies of Ear-EEG Brain-Computer Interfaces,î IEEE Trans. on Cybernetics, Vol. 50, No. 8, 2020, pp. 3654-3667.)
+ Related Reference: (i.e. N.-S. Kwak and S.-W. Lee, ‚ÄúError Correction Regression Framework for Enhancing the Decoding
+ Accuracies of Ear-EEG Brain-Computer Interfaces,‚Äù IEEE Trans. on Cybernetics, Vol. 50, No. 8, 2020, pp. 3654-3667.)
 
